@@ -1,4 +1,4 @@
-# movieSearchReview# 
+# movieSearchReview #
 Movie Review Application
 
 A full-stack web application that allows users to browse movies, view details, and add reviews. The application uses The Movie Database (TMDB) API for movie data and includes a custom backend for storing and managing user reviews.
